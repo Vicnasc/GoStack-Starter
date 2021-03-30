@@ -1,0 +1,2 @@
+# GoStack-Starter
+Starter
